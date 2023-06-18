@@ -6,7 +6,7 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-image: linear-gradient(to  right, aqua, green);
+    background-image: linear-gradient(to  right, pink, rgb(55, 127, 171));
 }
 
 .calculator{
